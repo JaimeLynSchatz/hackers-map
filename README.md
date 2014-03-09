@@ -19,7 +19,48 @@ The documentation for Wikidata can be daunting. This project aims to organize th
 Short summary describing your project: what it means to accomplish, and how it will benefit MediaWiki or Wikimedia projects such as Wikipedia.
 -->
 == Deliverables ==
+*April 21 - May 18*
+On-ramping, project investigation time
 
+*May 18 - May 24*
+
+*May 25 - May 31*
+
+*June 1 - June 7*
+
+*June 8 - June 14*
+
+*June 15 - June 21*
+
+*June 22 - June 27*
+Midterm deadline June 27
+
+*June 28 - July 5*
+
+*July 6 - July 12*
+
+*July 13 - July 19*
+
+*July 20 - July 26*
+
+*July 27 - August 2*
+
+*August 3 - August 10*
+
+*August 11 - August 17*
+Suggested Pencils Down, final i-dotting and t-crossing
+
+*August 18*
+Final pencils down, make plans for continued contributions
+
+*June 27*
+Midterm deadline
+
+*August 11*
+Suggested Pencils Down
+
+*August 18*
+Internship Ends
 <!--
 Include a brief, clear work breakdown structure with milestones and deadlines. Make sure to label deliverables as optional or required. It’s OK to include thinking time (“investigation”) in your work schedule. Deliverables should include investigation, coding, deploying, testing and documentation.
 -->
