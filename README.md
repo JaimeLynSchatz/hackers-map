@@ -1,11 +1,6 @@
-{{Userspace draft|source=ArticleWizard|date={{Subst:CURRENTMONTHNAME}} {{Subst:CURRENTYEAR}}}} {{Subst:Nul|<==do not change this line it will set the date automatically}}
+# Hacker's Map
 
-'''Hacker's Map'''
-{{TNT|Draft}}
-
-== (Hacker's Map) ==
-
-; Public URL: (the page where the full proposal can be found)
+; Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/README.md)
 ; [[Bugzilla]] report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)
 ; Announcement: (link to the announcement of your proposal at the [[mail:wikitech-l|wikitech-l mailing list]].
 
