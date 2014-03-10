@@ -1,8 +1,8 @@
-# Hacker's Map
+#Hacker's Map
 
-; Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/README.md)
-; [[Bugzilla]] report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)
-; Announcement: (link to the announcement of your proposal at the [[mail:wikitech-l|wikitech-l mailing list]].
+Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/README.md)
+[[Bugzilla]] report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)
+Announcement: (link to the announcement of your proposal at the [[mail:wikitech-l|wikitech-l mailing list]].
 
 ##Name and contact information
 
@@ -19,25 +19,25 @@
 Short summary describing your project: what it means to accomplish, and how it will benefit MediaWiki or Wikimedia projects such as Wikipedia.
 -->
 ##Deliverables
-*April 21 - May 18*:    On-ramping, project investigation time
+*April 21 - May 18*:     On-ramping, project investigation time
 
-*May 18 - May 24*:
+*May 18 - May 24*:       Prepare outline/draft of Hacker's Map
 
-*May 25 - May 31*:
+*May 25 - May 31*:       Submit Hacker's Map to Mentor, begin(finish?) edits
 
-*June 1 - June 7*:
+*June 1 - June 7*:       2nd draft/final of Hacker's Map
 
-*June 8 - June 14*:
+*June 8 - June 14*:      2nd draft/final of Hacker's Map
 
-*June 15 - June 21*:     Deploy Hacker's Map, begin outreach phase
+*June 15 - June 21*:     Begin deployment of Hacker's Map
 
-*June 22 - June 27*:     Midterm deadline June 27
+*June 22 - June 27*:     Finish deployment, begin Outreach Phase. Midterm deadline June 27
 
-*June 28 - July 5*:
+*June 28 - July 5*:      Develop first draft of outreach plan, submit to Mentor, begin edits.
 
-*July 6 - July 12*:
+*July 6 - July 12*:      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to Wolfram's Language?)
 
-*July 13 - July 19*:
+*July 13 - July 19*:     Monitor outreach results (? is link source data accessible for the Wikidata site?)
 
 *July 20 - July 26*:
 
@@ -83,7 +83,8 @@ Please add any other relevant information -- UI mockups, references to related p
 {{Reflist}}
 
 ##External links
-* [http://www.example.com/ example.com]
+* [https://github.com/JaimeLynSchatz/hackers-map/README.md]
+
 
 <!--- Categories --->
 [[Category:Articles created via the Article Wizard]]
