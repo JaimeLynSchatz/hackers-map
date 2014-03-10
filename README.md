@@ -60,6 +60,9 @@ We don't just care about your project -- you are a person, and that matters to u
 
 You don't need to write out your life story (we can read your blog if we want that), but we want to know a little about what makes you tick. Are you a Wikipedia addict wanting to make your own experience better? Did a wiki with usability problems run over your dog, and you're seeking revenge? :-) What does making this project happen mean to you?
 -->
+I am an independent learner, studying software development. I first came across Wikidata while looking into possible projects for the FOSS OPW. This is actually the third time that I've looked into the FOSS OPW. I gave up on my previous attempts due to the difficulty in know where to start. (and in my sad little Windows computer but for that story, read my blog. ;) ) There are some amazing resources out there to guide people new to Wikidata, but they can be difficult to navigate and I kept finding myself clicking in circles on the site.
+
+The main tagline of the Wikimedia Foundation, *"We believe that knowledge should be free for every human being"* sounds like it came straight from my own heart. (From my heart and from Shira's hacktivist mother in "He, She and It".) I want to help make that knowledge free and accessible to all.
 ##Participation
 <!--
 We don't just want to know what you plan to accomplish; we want to know ''how''.  Briefly describe your work style:  how you plan to communicate progress, where you plan to publish your source code while you're working, how and where you plan to ask for help.  (We will tend to favor applicants that demonstrate a clear vision for what it means to be an active participant in our development community.)
