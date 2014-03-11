@@ -8,7 +8,7 @@ Announcement: (link to the announcement of your proposal at the [[mail:wikitech-
 
 **Name:** Jaime Lyn Schatz
 **Email:** jaimelynschatz@gmail.com
-**IRC or IM networks/handle(s):** JaimeLyn, @edupunkn00b (twitter) and JaimeLynSchatz on Github
+**IRC or IM networks/handle(s):** jlschatz, @edupunkn00b (twitter) and JaimeLynSchatz on Github
 **Location:** Redmond, WA, US
 **Typical working hours:** 7am - 3pm (UTC-8)
 
