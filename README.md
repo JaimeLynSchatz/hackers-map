@@ -20,7 +20,7 @@ Short summary describing your project: what it means to accomplish, and how it w
 -->
 ##Deliverables
 The first half of the project will involve building the Hacker's Map byt organizing exisiting docs and creating new ones as needed. The second half of the project will center around deploying the map and publicizing it to draw in new editors/hackers and use their feedback as part of the testing/refactoring phase.
-*April 21 - May 18:**     On-ramping, project investigation time
+<br />*April 21 - May 18:**     On-ramping, project investigation time
 
 *May 18 - May 24:**       Prepare outline/draft of Hacker's Map
 
@@ -36,7 +36,7 @@ The first half of the project will involve building the Hacker's Map byt organiz
 
 *June 28 - July 5:**      Develop first draft of outreach plan, submit to Mentor, begin edits.
 
-*July 6 - July 12:**      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to (Wolfram's Language)[www.wolfram.com/language]?)
+*July 6 - July 12:**      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to [Wolfram's Language](www.wolfram.com/language)?)
 
 *July 13 - July 19:**     Monitor outreach results (? is link source data accessible for the Wikidata site?)
 
