@@ -6,15 +6,15 @@ Announcement: (link to the announcement of your proposal at the [[mail:wikitech-
 
 ##Name and contact information
 
-**Name:** Jaime Lyn Schatz
-**Email:** jaimelynschatz@gmail.com
-**IRC or IM networks/handle(s):** jlschatz, @edupunkn00b (twitter) and JaimeLynSchatz on Github
-**Location:** Redmond, WA, US
-**Typical working hours:** 7am - 3pm (UTC-8)
+**Name:** Jaime Lyn Schatz<br />
+**Email:** jaimelynschatz@gmail.com<br />
+**IRC or IM networks/handle(s):** jlschatz, @edupunkn00b (twitter) and JaimeLynSchatz on Github<br />
+**Location:** Redmond, WA, US<br />
+**Typical working hours:** 7am - 3pm (UTC-8)<br/>
 
 ##Synopsis
 
-####The documentation for Wikidata can be daunting. This project aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started. The Hacker's Map will then be used as part of a mini-campaign to increase participation in the Wikidata project.
+The documentation for Wikidata can be daunting. This project aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started. The Hacker's Map will then be used as part of a mini-campaign to increase participation in the Wikidata project.
 <!--
 Short summary describing your project: what it means to accomplish, and how it will benefit MediaWiki or Wikimedia projects such as Wikipedia.
 -->
