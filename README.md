@@ -1,7 +1,7 @@
 #Hacker's Map
 
-Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/README.md)
-[[Bugzilla]] report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)
+Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/README.md)<br />
+[[Bugzilla]] report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)<br />
 Announcement: (link to the announcement of your proposal at the [[mail:wikitech-l|wikitech-l mailing list]].
 
 ##Name and contact information
