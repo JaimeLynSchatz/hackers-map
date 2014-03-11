@@ -35,6 +35,8 @@ I have started making contributions to Wikidata, with some mixed results. The di
 https://en.wikipedia.org/wiki/User:JaimeLyn/Hacker%27s_map
 My contribution page to Wikidata is here:
 https://www.wikidata.org/wiki/Special:Contributions/JaimeLyn 
+My contribution page to WikiLabs is here:
+https://wikitech.wikimedia.org/wiki/Special:Contributions/JaimeLyn
 
 Please describe your experience with any other FOSS projects as a user and as a contributor:
 I'm a huge fan of FOSS. Like the Wikimedia tagline, I believe that knowledge should be free and accessible to everyone in the world.
@@ -65,7 +67,7 @@ Lydia Pintscher is the potential mentor for the Wikidata Doc ("Hacker's Map") pr
 Please describe the details and the timeline of the work you plan to accomplish on the project you are most interested in (discuss these first with the mentor of the project):
 from: https://www.mediawiki.org/wiki/Hacker%27s_map
 
-The documentation for Wikidata can be daunting for new contributors. This project primarily aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started. The Hacker's Map will then be used as part of a mini-campaign to increase participation in the Wikidata project.
+The documentation for Wikidata (and WikiLabs) can be daunting for new contributors. This project primarily aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started. The Hacker's Map will then be used as part of a mini-campaign to increase participation in the Wikidata project.
 
 Possible mentors
     Lydia Pintscher, WMDE
