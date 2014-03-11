@@ -14,40 +14,41 @@ Announcement: (link to the announcement of your proposal at the [[mail:wikitech-
 
 ##Synopsis
 
-####The documentation for Wikidata can be daunting. This project aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started.
+####The documentation for Wikidata can be daunting. This project aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started. The Hacker's Map will then be used as part of a mini-campaign to increase participation in the Wikidata project.
 <!--
 Short summary describing your project: what it means to accomplish, and how it will benefit MediaWiki or Wikimedia projects such as Wikipedia.
 -->
 ##Deliverables
-*April 21 - May 18*:     On-ramping, project investigation time
+The first half of the project will involve building the Hacker's Map byt organizing exisiting docs and creating new ones as needed. The second half of the project will center around deploying the map and publicizing it to draw in new editors/hackers and use their feedback as part of the testing/refactoring phase.
+*April 21 - May 18:**     On-ramping, project investigation time
 
-*May 18 - May 24*:       Prepare outline/draft of Hacker's Map
+*May 18 - May 24:**       Prepare outline/draft of Hacker's Map
 
-*May 25 - May 31*:       Submit Hacker's Map to Mentor, begin(finish?) edits
+*May 25 - May 31:**       Submit Hacker's Map to Mentor, begin(finish?) edits
 
-*June 1 - June 7*:       2nd draft/final of Hacker's Map
+*June 1 - June 7:**       2nd draft/final of Hacker's Map
 
-*June 8 - June 14*:      2nd draft/final of Hacker's Map
+*June 8 - June 14:**      2nd draft/final of Hacker's Map
 
-*June 15 - June 21*:     Begin deployment of Hacker's Map
+*June 15 - June 21:**     Begin deployment of Hacker's Map
 
-*June 22 - June 27*:     Finish deployment, begin Outreach Phase. Midterm deadline June 27
+*June 22 - June 27:**     Finish deployment, begin Outreach Phase. **Midterm deadline June 27**
 
-*June 28 - July 5*:      Develop first draft of outreach plan, submit to Mentor, begin edits.
+*June 28 - July 5:**      Develop first draft of outreach plan, submit to Mentor, begin edits.
 
-*July 6 - July 12*:      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to Wolfram's Language?)
+*July 6 - July 12:**      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to (Wolfram's Language)[www.wolfram.com/language]?)
 
-*July 13 - July 19*:     Monitor outreach results (? is link source data accessible for the Wikidata site?)
+*July 13 - July 19:**     Monitor outreach results (? is link source data accessible for the Wikidata site?)
 
-*July 20 - July 26*:
+*July 20 - July 26:**     Continue with outreach phase. Idea: tweet a daily Wikidata pic that relates to recent news
 
-*July 27 - August 2*:
+*July 27 - August 2:**    Find/receive feedback, continue with outreach phase. Idea: highlight a contributor (with permission)
 
-*August 3 - August 10*:
+*August 3 - August 10:**  Find/receive feedback, begin results report
 
-*August 11 - August 17*: Suggested Pencils Down, final i-dotting and t-crossing
+**August 11 - August 17:** **Suggested pencils down**, final i-dotting and t-crossing, submit report
 
-*August 18*:             Final pencils down, make plans for continued contributions
+**August 18:**           **Final pencils down**, make plans for continued contributions
 <!--
 Include a brief, clear work breakdown structure with milestones and deadlines. Make sure to label deliverables as optional or required. It’s OK to include thinking time (“investigation”) in your work schedule. Deliverables should include investigation, coding, deploying, testing and documentation.
 -->
