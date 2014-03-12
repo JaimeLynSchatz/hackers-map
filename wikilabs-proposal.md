@@ -1,3 +1,4 @@
+# Wikilabs Proposal
 May 18 - May 24: Investigation: follow "Getting Started" pages step-by-step, documenting issues and areas that need clarification or modifying
 May 25 - May 31: Provided week 1 goes well, a stretch goal is to then go through the directions again on a Windows machine
 June 1 - June 7: Finish with Windows machine, prepare a Vagrant Box to be shared through GitHub.
