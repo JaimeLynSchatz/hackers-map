@@ -1,7 +1,7 @@
 # Wikimaps Proposal
 May 18 - May 24: Investigation: Get up to speed on the current state of the iD and The_Rails_Port system
-May 25 - May 31: Begin a MVP (minimal viable product) of the time slider to ensure I'm on the right track, begin integrating the time slider
-June 1 - June 7: Finish integrating the time slider
+May 25 - May 31: Begin a MVP (minimal viable product) of the time slider to ensure I'm on the right track, begin testing and integrating the time slider
+June 1 - June 7: Finish testing/integrating the time slider
 June 8 - June 14: Investigation: explore what kind of meta-data hooks will be needed to tease out the generic parts of the mapping systems
 June 15 - June 21: Start the actual enhancement
 June 22 - June 27: Planned SNAFU-fixing time, Midterm deadline June 27
