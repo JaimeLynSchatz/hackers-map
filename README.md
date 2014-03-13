@@ -20,31 +20,31 @@ Short summary describing your project: what it means to accomplish, and how it w
 -->
 ##Deliverables
 The first half of the project will involve building the Hacker's Map byt organizing exisiting docs and creating new ones as needed. The second half of the project will center around deploying the map and publicizing it to draw in new editors/hackers and use their feedback as part of the testing/refactoring phase.
-<br />*April 21 - May 18:**     On-ramping, project investigation time
+<br />**April 21 - May 18:**     On-ramping, project investigation time
 
-*May 18 - May 24:**       Prepare outline/draft of Hacker's Map
+**May 18 - May 24:**       Prepare outline/draft of Hacker's Map
 
-*May 25 - May 31:**       Submit Hacker's Map to Mentor, begin(finish?) edits
+**May 25 - May 31:**       Submit Hacker's Map to Mentor, begin(finish?) edits
 
-*June 1 - June 7:**       2nd draft/final of Hacker's Map
+**June 1 - June 7:**       2nd draft/final of Hacker's Map
 
-*June 8 - June 14:**      2nd draft/final of Hacker's Map
+**June 8 - June 14:**      2nd draft/final of Hacker's Map
 
-*June 15 - June 21:**     Begin deployment of Hacker's Map
+**June 15 - June 21:**     Begin deployment of Hacker's Map
 
-*June 22 - June 27:**     Finish deployment, begin Outreach Phase. **Midterm deadline June 27**
+**June 22 - June 27:**     Finish deployment, begin Outreach Phase. **Midterm deadline June 27**
 
-*June 28 - July 5:**      Develop first draft of outreach plan, submit to Mentor, begin edits.
+**June 28 - July 5:**      Develop first draft of outreach plan, submit to Mentor, begin edits.
 
-*July 6 - July 12:**      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to [Wolfram's Language](www.wolfram.com/language)?)
+**July 6 - July 12:**      Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to [Wolfram's Language](www.wolfram.com/language)?)
 
-*July 13 - July 19:**     Monitor outreach results (? is link source data accessible for the Wikidata site?)
+**July 13 - July 19:**     Monitor outreach results (? is link source data accessible for the Wikidata site?)
 
-*July 20 - July 26:**     Continue with outreach phase. Idea: tweet a daily Wikidata pic that relates to recent news
+**July 20 - July 26:**     Continue with outreach phase. Idea: tweet a daily Wikidata pic that relates to recent news
 
-*July 27 - August 2:**    Find/receive feedback, continue with outreach phase. Idea: highlight a contributor (with permission)
+**July 27 - August 2:**    Find/receive feedback, continue with outreach phase. Idea: highlight a contributor (with permission)
 
-*August 3 - August 10:**  Find/receive feedback, begin results report
+**August 3 - August 10:**  Find/receive feedback, begin results report
 
 **August 11 - August 17:** **Suggested pencils down**, final i-dotting and t-crossing, submit report
 
