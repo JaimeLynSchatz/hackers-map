@@ -1,5 +1,5 @@
 # Wikilabs Proposal
-<br />**May 18 - May 24:** Investigation: follow "Getting Started" pages step-by-step, documenting issues and areas that need clarification or modifying
+**May 18 - May 24:** Investigation: follow "Getting Started" pages step-by-step, documenting issues and areas that need clarification or modifying
 <br />**May 25 - May 31:** Provided week 1 goes well, a stretch goal is to then go through the directions again on a Windows machine
 <br />**June 1 - June 7:** Finish with Windows machine, prepare a Vagrant Box to be shared through GitHub.
 <br />**June 8 - June 14:** Put together a step-by-step map w/ page links and note where expansions of material are needed
