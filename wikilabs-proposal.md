@@ -28,7 +28,7 @@ Short summary describing your project: what it means to accomplish, and how it w
 <br />**June 28 - July 5:** Start picking items off the list and completing the needed contributions
 <br />**July 6 - July 12:** Continue contributing expansions
 <br />**July 13 - July 19:** Continue contributing expansions
-<br />**July 20 - July 26:** Test drive new guide, prepare changes list
+<br />**July 20 - July 26:** Test drive new guide, prepare changes list based on testing and feeback
 <br />**July 27 - August 2:** Make any needed changes
 <br />**August 3 - August 10:** Make more needed changes
 <br />**August 11 - August 17:** Suggested pencils down, final i-dotting and t-crossing, submit report.
