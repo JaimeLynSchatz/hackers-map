@@ -1,6 +1,6 @@
 # Wikilabs Toolbox
 
-Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/README.md)<br />
+Public URL: (https://github.com/JaimeLynSchatz/hackers-map/blob/master/wikilabs-proposal.md)<br />
 Bugzilla report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)<br />
 
 ##Name and contact information
@@ -12,7 +12,7 @@ Bugzilla report: (https://bugzilla.wikimedia.org/show_bug.cgi?id=61991)<br />
 **Typical working hours:** 7am - 3pm (UTC-8)<br/>
 
 ##Synopsis
-
+Wikilabs abounds in great information, but it can be difficult for newcomers to get started (both technically and in knowing where their skills are needed most.) This project seeks to rememdy some of that.
 
 <!--
 Short summary describing your project: what it means to accomplish, and how it will benefit MediaWiki or Wikimedia projects such as Wikipedia.
