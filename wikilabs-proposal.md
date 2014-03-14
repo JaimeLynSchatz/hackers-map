@@ -23,7 +23,7 @@ Short summary describing your project: what it means to accomplish, and how it w
 <br />**May 25 - May 31:** Provided week 1 goes well, a stretch goal is to then go through the directions again on a Windows machine
 <br />**June 1 - June 7:** Finish with Windows machine, prepare a Vagrant Box to be shared through GitHub.
 <br />**June 8 - June 14:** Put together a step-by-step map w/ page links and note where expansions of material are needed
-<br />**June 15 - June 21:** Create a specific contributions needed list and post (?in a discussion page?)
+<br />**June 15 - June 21:** Create a specific contributions needed wiki list and post (?in a discussion page?) Each item on the list will include links to Bugzilla, source code on Gerrit or GitHub (or?)
 <br />**June 22 - June 27:** Planned SNAFU-fixing time, Midterm deadline June 27
 <br />**June 28 - July 5:** Start picking items off the list and completing the needed contributions
 <br />**July 6 - July 12:** Continue contributing expansions
@@ -32,7 +32,7 @@ Short summary describing your project: what it means to accomplish, and how it w
 <br />**July 27 - August 2:** Make any needed changes
 <br />**August 3 - August 10:** Make more needed changes
 <br />**August 11 - August 17:** Suggested pencils down, final i-dotting and t-crossing, submit report.
-<br />**August 18:** Final pencils down, make plans for continued contributions
+<br />**August 18:** Final pencils down, make plans for continued contributions and monitoring of contributions wiki list
 
 <!--
 Include a brief, clear work breakdown structure with milestones and deadlines. Make sure to label deliverables as optional or required. It’s OK to include thinking time (“investigation”) in your work schedule. Deliverables should include investigation, coding, deploying, testing and documentation.
