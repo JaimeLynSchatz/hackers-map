@@ -77,20 +77,32 @@ The entire project has three main modules:
 
 As a summer intern, I hope to work with the team to accomplish the following:
 
-April 21 - May 18: On-ramping, project investigation time
-May 18 - May 24: Prepare outline/draft of Hacker's Map
-May 25 - May 31: Submit Hacker's Map to Mentor, begin(finish?) edits
-June 1 - June 7: Begin 2nd draft/final of Hacker's Map
-June 8 - June 14: Finish 2nd draft/final of Hacker's map
-June 15 - June 21: Begin deployment of Hacker's Map
-June 22 - June 27: Finish deployment, begin Outreach Phase. Midterm deadline June 27
-June 28 - July 5: Develop first draft of outreach plan, submit to Mentor, begin edits.
-July 6 - July 12: Finish edits, start outreach (Wikidata scavenger hunt to start? Perhaps something to tie in to Wolfram's Language?)
-July 13 - July 19: Monitor outreach results: is there any discernible increase in activity? Mentions in Twitter or irc?
-July 20 - July 26: Continue with outreach phase. Idea: Tweet a daily Wikidata pic that relates to recent news?
-July 27 - August 2: Find/receive feedback, continue with outreach phase. Idea: highlight a contributor (with permission)
-August 3 - August 10: Find/recieve feedback, begin results report
+May 18 - May 24: Investigation: Get up to speed on the current state of the iD and The_Rails_Port system
+
+May 25 - May 31: Begin a MVP (minimal viable product) of the time slider to ensure I'm on the right track, begin testing and integrating the time slider
+
+June 1 - June 7: Finish testing/integrating the time slider
+
+June 8 - June 14: Investigation: explore what kind of meta-data hooks will be needed to tease out the generic parts of the mapping systems
+
+June 15 - June 21: Start the actual enhancement
+
+June 22 - June 27: Planned SNAFU-fixing time, Midterm deadline June 27
+
+June 28 - July 5: Finish the enhancements and test the system (preferably with a local area for a reality check)
+
+July 6 - July 12: Finish testing and fixing broken bits
+
+July 13 - July 19: Planned SNAFU-fixing time
+
+July 20 - July 26: Introduce new start and end date keys to the Mapnik tile renderer
+
+July 27 - August 2: Continue integrating the keys, testing
+
+August 3 - August 10: Testing and fixing broken bits
+
 August 11 - August 17: Suggested pencils down, final i-dotting and t-crossing, submit report.
+
 August 18: Final pencils down, make plans for continued contributions
 
 This time-breakout needs further input from the potential mentors on the project.
