@@ -76,7 +76,6 @@ The entire project has three main modules:
 3. Modify the Mapnik tile renderer to handle Key:start_date and Key:end_date.
 
 As a summer intern, I hope to work with the team to accomplish the following:
-
 May 18 - May 24: Investigation: Get up to speed on the current state of the iD and The_Rails_Port system
 
 May 25 - May 31: Begin a MVP (minimal viable product) of the time slider to ensure I'm on the right track, begin testing and integrating the time slider
