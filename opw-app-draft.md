@@ -61,7 +61,7 @@ What project(s) are you interested in (these can be in the same or different org
 3. Wikidata Outreach: https://bugzilla.wikimedia.org/show_bug.cgi?id=61991
 
 All three of the projects for which I've developed proposals are with WikiMedia. I love software and coding and I love WikiMedia. If there is a different area with the organization in which the organizers think I would be a better fit, I am ready to learn!
- 
+
 Who is a possible mentor for the project you are most interested in?
 I am most interested in the Wikimaps project but I am unsure about my skills. Robert Warren is listed first as a potential mentor for that project.
 (Lydia Pintscher is the potential mentor for the Wikidata Doc "Hacker's Map" project and Andrew Bogott for the Wikimedia Labs "Toolbox" project.)
@@ -70,13 +70,17 @@ Please describe the details and the timeline of the work you plan to accomplish 
 
 The Wikimaps project seeks to draw together data from the OpenStreetMap and OpenHistoricalMaps projects to enable users to view maps backward through the 4th dimension: time. (Allowing users to view maps that reach forward in the 4th dimension is, sadly, out of the scope of this project. ;)
 
-As a summer intern, I hope to work with the team to accomplish the following:
-
 Deliverables
 
 The entire project has three main modules:
-1. Develop a time slider that allows users to select the time frame for the map to be viewed.
-2. Create meta-data hooks in the mapping system
+
+1. Enhance the iD and The_Rails_Port so that a javascript time/date slider can be added to control the time period that is of interest.
+
+2. Enhance the ID and The_Rails_Port so that meta-data hooks are added to the code that allow for custom deployments of both software. The intent is to support their use as dedicated user interfaces to certain applications (such as medieval walking path editing) while still using a generic data source.
+
+3. Modify the Mapnik tile renderer to handle Key:start_date and Key:end_date.
+
+As a summer intern, I hope to work with the team to accomplish the following:
 
 April 21 - May 18: On-ramping, project investigation time
 May 18 - May 24: Prepare outline/draft of Hacker's Map
@@ -90,9 +94,11 @@ July 6 - July 12: Finish edits, start outreach (Wikidata scavenger hunt to start
 July 13 - July 19: Monitor outreach results: is there any discernible increase in activity? Mentions in Twitter or irc?
 July 20 - July 26: Continue with outreach phase. Idea: Tweet a daily Wikidata pic that relates to recent news?
 July 27 - August 2: Find/receive feedback, continue with outreach phase. Idea: highlight a contributor (with permission)
-August 3 - August 10: Find/recieve feedback, begin results report.
+August 3 - August 10: Find/recieve feedback, begin results report
 August 11 - August 17: Suggested pencils down, final i-dotting and t-crossing, submit report.
 August 18: Final pencils down, make plans for continued contributions
+
+This time-breakout needs further input from the potential mentors on the project.
 
 Will you have any other time commitments, such as school work, another job, planned vacation, etc., between May 19 and August 18, 2014?
 I currently work full time but expect my job to end on May 26. (I need to stay on long enough to cover a vacation.) In that time (May 19 - May ~26), I expect to be able to work on the project for approximately 4-5 hours a day, 7 days a week.
