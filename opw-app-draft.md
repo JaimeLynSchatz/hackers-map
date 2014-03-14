@@ -1,6 +1,3 @@
-Draft of OPW Application 
-found at: https://opw.gnome.org/?q=view_projects&a=editor&prg=1
-
 Name:    Jaime Lyn Schatz
 
 E-mail address:    jaimelynschatz@gmail.com
@@ -16,7 +13,6 @@ https://gist.github.com/JaimeLynSchatz/6599143
 Location:    Redmond, WA, US
 
 Education completed or in progress (i.e., university, major/concentration, degree level, and graduation year):
-
 Informally, I am studying programming through several online sources: Udacity for Python, Codecademy and MIcrosoft Virtual Academy for Javascript/CSS/HTML and Ruby/RoR through Learn Ruby the Hard Way and Railstutorial.org. I am Microsoft Certified in JS/CSS/HTML5.
 
 More formally, I have a BA in Political Science with a concentration in Economics (City University of New York, Brooklyn College 1994). I was going to be a lawyer who would change the world. Then I grew up.
@@ -28,8 +24,7 @@ We advise all students applying for coding projects to apply for Google Summer o
 I am not a formal student, so I do not qualify for GSoC.
 
 Please describe your experience with the organization's product as a user and as a contributor (include the information, as well as a link or an attachment, for the required contribution you made to the project you are interested in here):
-
-I have not yet successfully made a contribution to Wikimaps. After spending a couple of weeks (I currently work full time, but I won't this summer) unsuccessfully trying to get the software to run on Vagrant my Windows machine, I finally installed Ubuntu and have it working. I am having a great deal of difficulty finding an appropriate bug to tackle. (I was hoping for a little guidance on that.) I'm using my experience of trying to make a first contribution of code as a baseline for my proposed Wikidata and MediaWiki Labs projects.
+I have not yet successfully made a contribution to Wikimaps. After spending a couple of weeks (I currently work full time, but I won't this summer) unsuccessfully trying to get the software to run on Vagrant my Windows machine, I finally installed Ubuntu and have it working. I am having a great deal of difficulty finding an appropriate bug to tackle. (I was hoping for a little guidance on that.) I'm using my experience of trying to make a first contribution of code as a baseline for my other project proposals for Wikidata and MediaWiki Labs.
 
 I have just started making contributions to Wikidata and Wikitech, with some mixed results. The difficulty I have had in maing initial contributions to any of the Wikimedia projects has re-emphasized the importance of improving the docs, particularly for brand-new folks (like me.)
 https://en.wikipedia.org/wiki/User:JaimeLyn/Hacker%27s_map
@@ -56,9 +51,9 @@ This would be the first project of it's kind that I have worked on.
 I've worked a bit on hobby projects in Rails before (including a very last minute Valentine's present for a friend of a friend: http://dear-mattie.herokuapp.com/.)
 
 What project(s) are you interested in (these can be in the same or different organizations)?
-1. OpenHistoricalMaps/Wikimaps Project: https://bugzilla.wikimedia.org/show_bug.cgi?id=62257
-2. Welcoming New Contrib. to Wikimedia Labs/Wikimedia Tools
-3. Wikidata Outreach: https://bugzilla.wikimedia.org/show_bug.cgi?id=61991
+1. OpenHistoricalMaps/Wikimaps Project: https://bugzilla.wikimedia.org/show_bug.cgi?id=62257. (Project proposal link: https://www.mediawiki.org/wiki/Historical_OpenStreetMap)
+2. Welcoming New Contrib. to Wikimedia Labs/Wikimedia Tools (Project proposal link: https://wikitech.wikimedia.org/wiki/Wikimedia_Labs_Toolbox)
+3. Wikidata Outreach: https://bugzilla.wikimedia.org/show_bug.cgi?id=61991 (Project proposal link: https://www.mediawiki.org/wiki/Hacker%27s_map)
 
 All three of the projects for which I've developed proposals are with WikiMedia. I love software and coding and I love WikiMedia. If there is a different area with the organization in which the organizers think I would be a better fit, I am ready to learn!
 
