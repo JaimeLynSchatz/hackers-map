@@ -22,16 +22,16 @@ Informally, I am studying programming through several online sources: Udacity fo
 More formally, I have a BA in Political Science with a concentration in Economics (City University of New York, Brooklyn College 1994). I was going to be a lawyer who would change the world. Then I grew up.
 
 How did you hear about this program?
-If memory serves me properly, I first heard about the program through a post on Twitter.
+I first heard about the program through a post on Twitter.
 
 We advise all students applying for coding projects to apply for Google Summer of Code as well. Are you planning to apply for Google Summer of Code and, if so, with what organization(s)?
 I am not a formal student, so I do not qualify for GSoC.
 
 Please describe your experience with the organization's product as a user and as a contributor (include the information, as well as a link or an attachment, for the required contribution you made to the project you are interested in here):
 
-I have not yet successfully made a contribution to Wikimaps. After spending a couple of weeks (I currently work full time, but I won't this summer) unsuccessfully trying to get the software to run on Vagrant my Windows machine, I finally installed Ubuntu and have it working. I am having a great deal of difficulty finding an appropriate bug to tackle. (I was hoping for a little guidance on that.) I'm using my experience of trying to make a first contribution of code as a baseline for my proposed Wikidata project.
+I have not yet successfully made a contribution to Wikimaps. After spending a couple of weeks (I currently work full time, but I won't this summer) unsuccessfully trying to get the software to run on Vagrant my Windows machine, I finally installed Ubuntu and have it working. I am having a great deal of difficulty finding an appropriate bug to tackle. (I was hoping for a little guidance on that.) I'm using my experience of trying to make a first contribution of code as a baseline for my proposed Wikidata and MediaWiki Labs projects.
 
-I have started making contributions to Wikidata, with some mixed results. The difficulty I have had in maing initial contributions to any of the Wikimedia projects has re-emphasized the importance of improving the docs, particularly for brand-new folks (like me.)
+I have just started making contributions to Wikidata and Wikitech, with some mixed results. The difficulty I have had in maing initial contributions to any of the Wikimedia projects has re-emphasized the importance of improving the docs, particularly for brand-new folks (like me.)
 https://en.wikipedia.org/wiki/User:JaimeLyn/Hacker%27s_map
 My contribution page to Wikidata is here:
 https://www.wikidata.org/wiki/Special:Contributions/JaimeLyn 
@@ -51,30 +51,32 @@ https://github.com/tc39/test262/issues/created_by/JaimeLynSchatz?state=open
 Regretably, TC39 is on the fence about IP for the contributions generated at that event. See lawyer note above ;).
 
 Please describe any relevant projects that you have worked on previously and what knowledge you gained from working on them (include links):
-This would be the first project of it's kind that I would work on.
+This would be the first project of it's kind that I have worked on.
 
 I've worked a bit on hobby projects in Rails before (including a very last minute Valentine's present for a friend of a friend: http://dear-mattie.herokuapp.com/.)
 
 What project(s) are you interested in (these can be in the same or different organizations)?
-OpenHistoricalMaps/Wikimaps Project: https://bugzilla.wikimedia.org/show_bug.cgi?id=62257
-Welcoming New Contrib. to Wikimedia Labs/Wikimedia Tools
-Wikidata Outreach: https://bugzilla.wikimedia.org/show_bug.cgi?id=61991
+1. OpenHistoricalMaps/Wikimaps Project: https://bugzilla.wikimedia.org/show_bug.cgi?id=62257
+2. Welcoming New Contrib. to Wikimedia Labs/Wikimedia Tools
+3. Wikidata Outreach: https://bugzilla.wikimedia.org/show_bug.cgi?id=61991
 
+All three of the projects for which I've developed proposals are with WikiMedia. I love software and coding and I love WikiMedia. If there is a different area with the organization in which the organizers think I would be a better fit, I am ready to learn!
+ 
 Who is a possible mentor for the project you are most interested in?
 I am most interested in the Wikimaps project but I am unsure about my skills. Robert Warren is listed first as a potential mentor for that project.
-Lydia Pintscher is the potential mentor for the Wikidata Doc ("Hacker's Map") project and Andrew Bogott for the Wikimedia Labs project.
+(Lydia Pintscher is the potential mentor for the Wikidata Doc "Hacker's Map" project and Andrew Bogott for the Wikimedia Labs "Toolbox" project.)
 
 Please describe the details and the timeline of the work you plan to accomplish on the project you are most interested in (discuss these first with the mentor of the project):
-from: https://www.mediawiki.org/wiki/Hacker%27s_map
 
-The documentation for Wikidata (and WikiLabs) can be daunting for new contributors. This project primarily aims to organize the great material that's out there and create a Hacker's Map that details step-by-step how to get started. The Hacker's Map will then be used as part of a mini-campaign to increase participation in the Wikidata project.
+The Wikimaps project seeks to draw together data from the OpenStreetMap and OpenHistoricalMaps projects to enable users to view maps backward through the 4th dimension: time. (Allowing users to view maps that reach forward in the 4th dimension is, sadly, out of the scope of this project. ;)
 
-Possible mentors
-    Lydia Pintscher, WMDE
+As a summer intern, I hope to work with the team to accomplish the following:
 
 Deliverables
 
-The first half of the project will involve building the Hacker's Map byt organizing exisiting docs and creating new ones as needed. The second half of the project will center around deploying the map and publicizing it to draw in new editors/hackers and use their feedback as part of the testing/refactoring phase.
+The entire project has three main modules:
+1. Develop a time slider that allows users to select the time frame for the map to be viewed.
+2. Create meta-data hooks in the mapping system
 
 April 21 - May 18: On-ramping, project investigation time
 May 18 - May 24: Prepare outline/draft of Hacker's Map
